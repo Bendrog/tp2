@@ -20,9 +20,9 @@ Pour ce qui est du pricing, en Serverless on ne paye que ce qui a été consomm�
 
 # 4.
 **Citez les trois propriétés désirable du Serverless ?**
-> **1. Ephémère:** La plaforme n'instancie que les fonctions à la demande, ces dernières ne "vivent" que le temps de délivrer leur résultat.
-> **2. Scalabilité dynamique:** L'auto-scaling permet de scaler automatiquement le nombre de serveurs, ressources affin de supporter la charge. Ceci sans que les développeurs n'aient eu à paramétrer quoi que ce soit.
-> **3. Gestion fine du paiement:** On ne paie que ce que l'on consomme 
+> 1. **_Ephémère:_** La plaforme n'instancie que les fonctions à la demande, ces dernières ne "vivent" que le temps de délivrer leur résultat.
+> 2. **_Scalabilité dynamique:_** L'auto-scaling permet de scaler automatiquement le nombre de serveurs, ressources affin de supporter la charge. Ceci sans que les développeurs n'aient eu à paramétrer quoi que ce soit.
+> 3. **_Gestion fine du paiement:_** On ne paie que ce que l'on consomme 
 
 # 5.
 **Comment s'appelle la plus petite unité de compute déployable en Serverless ?**
